@@ -8,8 +8,8 @@ You can reach him through his website:
 http://thehackerplaybook.com/
 
 
-<h1>Hyperlinks from <br /><br /> The Hacker Playbook 3</h1>
-<h2>by Peter Kim</h2>
+<h2>Hyperlinks from<h2>
+<h1>The Hacker Playbook 3 by Peter Kim</h1>
 <p>If you have a hard copy of Peter's book and want to skip typing in URLs, find your URL in this list and click on it!  For more information on Peter's book or how to order it, click <a href="http://thehackerplaybook.com/" target="_blank">here</a>.</p>
 <ul>
 <li><a href=http://www.pente target="_blank">http://www.pente</a></li><br />
